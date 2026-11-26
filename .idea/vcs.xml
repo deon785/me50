@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/attention" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crossword" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/degrees" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/heredity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/knights" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/minesweeper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nim" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pagerank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shopping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tictactoe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/traffic" vcs="Git" />
+  </component>
+</project>
